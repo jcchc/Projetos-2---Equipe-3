@@ -26,6 +26,7 @@ Nossa missão é promover inclusão, inovação e empreendedorismo nas comunidad
 - Matheus Costa Da Rocha 👨‍💻
 - Pedro Henrique Ramos Da Silva 👨‍💻
 - [Nosso Site](https://sites.google.com/cesar.school/cesarschool-eqp3/in%C3%ADcio)
+- [Nosso Processo de Criação](https://sites.google.com/cesar.school/cesarschool-eqp3/processo?authuser=0)
 
 <br>
 
@@ -39,6 +40,12 @@ Nossa missão é promover inclusão, inovação e empreendedorismo nas comunidad
 <br>
 
 ## 📂 Prótotipo de Baixa Fidelidade
+
+
+
+
+## 🎤 SR1
+- [SLIDES DE APRESENTAÇÃO](https://canva.link/tov7d2l2b2yyti4)
 
 
 
